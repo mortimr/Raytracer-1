@@ -32,4 +32,4 @@ you can find scene files in the scene folder.
 
 Moulinette : 100%
 
-Pitch : Coming Soon
+Pitch : 19.5
