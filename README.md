@@ -12,9 +12,9 @@ Screenshots available !
 
 Figures : sphere, plan
 
-light : yes
+light : ✓
 
-shadows : yes
+shadows : ✓
 
 ## Usage
 
